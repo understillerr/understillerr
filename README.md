@@ -6,6 +6,6 @@ Right now I'm working on an isolated home lab where I harden a Linux server, sca
 
 - **Building:** Linux hardening, vulnerability assessment, SIEM detection, automated response
 - **Tools:** Ansible, Wazuh, Nessus, firewalld, fail2ban, SELinux, auditd, Git
-- **Studying for:** Information Technology, BS & Cybersecutiy focused roles.
+- **Studying for:** Information Technology (BS), focused on cybersecurity.
 
 **Main project:** [Linux Hardening, Vulnerability Assessment & Detection Lab](https://github.com/understillerr/rocky-hardening-ansible)
